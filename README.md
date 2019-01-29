@@ -39,3 +39,4 @@ My favorite front-end development extensions for Visual Studio Code
 34. [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 35. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 36. [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
+37. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
